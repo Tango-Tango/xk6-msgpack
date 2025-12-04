@@ -1,4 +1,4 @@
-module github.com/tangotango/xk6-msgpack
+module github.com/tango-tango/xk6-msgpack
 
 go 1.23.0
 
